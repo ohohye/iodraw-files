@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eAOWp9z05yvjaf5qbVQO-1" value="表现层（微信小程序组件库）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="306" y="160" width="196" height="30" as="geometry" />
+          <mxGeometry x="306" y="160" width="214" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-uLS9fYRDxuWrgBWq2YD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uLS9fYRDxuWrgBWq2YD-1" target="-uLS9fYRDxuWrgBWq2YD-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-uLS9fYRDxuWrgBWq2YD-1" value="逻辑层（云函数，支付/预约/统计）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="306" y="290" width="216" height="40" as="geometry" />
+          <mxGeometry x="305" y="220" width="216" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-uLS9fYRDxuWrgBWq2YD-3" value="数据层（&lt;span style=&quot;background-color: rgba(27, 31, 35, 0.05); font-family: SFMono-Regular, Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; font-size: 13px; color: rgba(0, 0, 0, 0.9); text-align: left;&quot;&gt;腾讯云数据库+Redis缓存）&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="301" y="350" width="226" height="40" as="geometry" />
