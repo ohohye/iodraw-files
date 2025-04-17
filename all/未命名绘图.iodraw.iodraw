@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-uLS9fYRDxuWrgBWq2YD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eAOWp9z05yvjaf5qbVQO-1" target="-uLS9fYRDxuWrgBWq2YD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eAOWp9z05yvjaf5qbVQO-1" value="表现层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uLS9fYRDxuWrgBWq2YD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-uLS9fYRDxuWrgBWq2YD-1" target="-uLS9fYRDxuWrgBWq2YD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uLS9fYRDxuWrgBWq2YD-1" value="逻辑层" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-uLS9fYRDxuWrgBWq2YD-3" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
