@@ -59,8 +59,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QpqJcdpiHjvityq-6o2G-18" value="持有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="90" height="45" as="geometry" />
+        <mxCell id="QpqJcdpiHjvityq-6o2G-18" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QpqJcdpiHjvityq-6o2G-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
