@@ -37,6 +37,11 @@
             <mxPoint x="450" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QpqJcdpiHjvityq-6o2G-16" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QpqJcdpiHjvityq-6o2G-12">
+          <mxGeometry x="0.0476" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QpqJcdpiHjvityq-6o2G-13" value="预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="300" width="70" height="30" as="geometry" />
         </mxCell>
@@ -47,6 +52,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="340" as="sourcePoint" />
             <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QpqJcdpiHjvityq-6o2G-17" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QpqJcdpiHjvityq-6o2G-15">
+          <mxGeometry x="0.1378" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
