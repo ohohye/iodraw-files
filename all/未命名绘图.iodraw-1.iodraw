@@ -7,8 +7,8 @@
         <mxCell id="QpqJcdpiHjvityq-6o2G-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpqJcdpiHjvityq-6o2G-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="55" width="90" height="45" as="geometry" />
+        <mxCell id="QpqJcdpiHjvityq-6o2G-2" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="72.5" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
