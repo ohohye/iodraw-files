@@ -98,6 +98,12 @@
             <mxPoint x="460" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QpqJcdpiHjvityq-6o2G-27" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="298" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QpqJcdpiHjvityq-6o2G-28" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="298" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
