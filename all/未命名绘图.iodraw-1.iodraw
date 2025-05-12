@@ -105,13 +105,13 @@
           <mxGeometry x="145" y="298" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpqJcdpiHjvityq-6o2G-29" value="停车场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="80" width="70" height="30" as="geometry" />
+          <mxGeometry x="570" y="80" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpqJcdpiHjvityq-6o2G-30" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="180" width="90" height="45" as="geometry" />
+          <mxGeometry x="560" y="180" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="QpqJcdpiHjvityq-6o2G-31" value="停车位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="307.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="580" y="315" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
