@@ -74,6 +74,9 @@
             <mxPoint x="450" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QpqJcdpiHjvityq-6o2G-21" value="账单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
