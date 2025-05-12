@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QpqJcdpiHjvityq-6o2G-13" value="账单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="300" width="70" height="30" as="geometry" />
+          <mxGeometry x="60" y="307.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpqJcdpiHjvityq-6o2G-14" value="持有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="90" height="45" as="geometry" />
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QpqJcdpiHjvityq-6o2G-21" value="预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="70" height="30" as="geometry" />
+          <mxGeometry x="360" y="307.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QpqJcdpiHjvityq-6o2G-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,8 +83,8 @@
             <mxPoint x="550" y="297.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QpqJcdpiHjvityq-6o2G-23" value="产生" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="300" width="90" height="45" as="geometry" />
+        <mxCell id="QpqJcdpiHjvityq-6o2G-23" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
