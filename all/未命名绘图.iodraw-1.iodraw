@@ -104,7 +104,7 @@
         <mxCell id="QpqJcdpiHjvityq-6o2G-28" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="298" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QpqJcdpiHjvityq-6o2G-29" value="车辆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QpqJcdpiHjvityq-6o2G-29" value="停车场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="80" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
