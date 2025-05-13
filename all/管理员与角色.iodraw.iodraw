@@ -116,19 +116,17 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-38" value="用户预约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="947" y="152" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="996.9999999999998" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="997" y="270" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-39" target="fa0v5HXjnkNvQzD7hNL7-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-39" value="获取位置信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="947" y="220" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-49" value="获取位置信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="897" y="355.5" width="100" height="30" as="geometry" />
+          <mxGeometry x="874" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-52" value="获取位置信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="884" y="360" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
