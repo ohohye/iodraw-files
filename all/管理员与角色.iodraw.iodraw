@@ -334,8 +334,8 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-116" value="用户输入注册信息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="77.5" y="841" width="101" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-118" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="88" y="940.25" width="80" height="80" as="geometry" />
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-118" value="信息是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="940.25" width="90" height="46.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
