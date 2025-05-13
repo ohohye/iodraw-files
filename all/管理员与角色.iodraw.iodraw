@@ -246,13 +246,13 @@
           <mxGeometry x="2088" y="284.5" width="111" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-99" value="找车位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2081" y="358.5" width="111" height="27" as="geometry" />
+          <mxGeometry x="2085" y="358" width="111" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-100" value="停车记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2081" y="402.25" width="111" height="27" as="geometry" />
+          <mxGeometry x="2085" y="397.5" width="111" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-101" value="缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2081" y="442" width="111" height="27" as="geometry" />
+          <mxGeometry x="2085" y="441.5" width="111" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
