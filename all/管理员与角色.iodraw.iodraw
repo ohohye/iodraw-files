@@ -118,7 +118,7 @@
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="997" y="330" as="targetPoint" />
+            <mxPoint x="1120" y="341" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-39" value="获取位置信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
