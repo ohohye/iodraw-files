@@ -240,10 +240,10 @@
           <mxGeometry x="2092" y="199.5" width="114" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-97" value="车辆出场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2092" y="257.5" width="117" height="33" as="geometry" />
+          <mxGeometry x="2092" y="257.5" width="111" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-98" value="数据报表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2092" y="314" width="117" height="33" as="geometry" />
+          <mxGeometry x="2092" y="314" width="111" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
