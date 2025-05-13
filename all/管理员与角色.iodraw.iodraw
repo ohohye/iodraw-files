@@ -201,7 +201,7 @@
           <mxGeometry x="1391" y="368" width="43" height="78" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-82" value="增加停车场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1314" y="367.25" width="59" height="82.75" as="geometry" />
+          <mxGeometry x="1314" y="367.25" width="42" height="75.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
