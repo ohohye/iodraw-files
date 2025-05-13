@@ -25,8 +25,10 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-8" target="fa0v5HXjnkNvQzD7hNL7-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-8" target="fa0v5HXjnkNvQzD7hNL7-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-8" value="验证账户密码" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="325" width="110" height="55" as="geometry" />
@@ -54,13 +56,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-13" value="验证账户状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="480" width="110" height="55" as="geometry" />
+          <mxGeometry x="75" y="530" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-20" value="返回错误信息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="250" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-23" value="颁发refreshtoken，进入相应界面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
