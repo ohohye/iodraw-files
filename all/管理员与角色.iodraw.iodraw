@@ -31,8 +31,8 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-10" value="返回错误信息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="280" y="323.75" width="90" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="328" width="50" height="30" as="geometry" />
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-12" value="验证失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="328" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
