@@ -245,8 +245,8 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-98" value="数据报表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2083" y="301" width="111" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-99" value="数据报表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2093" y="311" width="111" height="27" as="geometry" />
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-99" value="找车位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="358.5" width="111" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
