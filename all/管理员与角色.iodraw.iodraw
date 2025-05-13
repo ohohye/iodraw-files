@@ -218,6 +218,9 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-82" value="增加停车场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1361" y="369.25" width="42" height="75.75" as="geometry" />
         </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.117;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-72" target="fa0v5HXjnkNvQzD7hNL7-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
