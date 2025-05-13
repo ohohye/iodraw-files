@@ -239,8 +239,8 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-96" value="车辆入场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2092" y="199.5" width="117" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-97" value="车辆入场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2102" y="209.5" width="117" height="33" as="geometry" />
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-97" value="车辆出场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2092" y="267" width="117" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
