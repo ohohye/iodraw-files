@@ -49,7 +49,7 @@
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-13" target="fa0v5HXjnkNvQzD7hNL7-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="570" as="targetPoint" />
+            <mxPoint x="150" y="537.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-25" value="正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fa0v5HXjnkNvQzD7hNL7-24">
@@ -58,19 +58,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-13" value="验证账户状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="75" y="442.5" width="110" height="55" as="geometry" />
+          <mxGeometry x="75" y="410" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-20" value="返回错误信息" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="260" y="443.75" width="90" height="50" as="geometry" />
+          <mxGeometry x="260" y="411.25" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-23" value="颁发refreshtoken，进入相应界面" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="690" width="120" height="55" as="geometry" />
+          <mxGeometry x="70" y="617" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-26" target="fa0v5HXjnkNvQzD7hNL7-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-26" value="验证是管理员还是客户" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="570" width="125" height="60" as="geometry" />
+          <mxGeometry x="67.5" y="497" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
