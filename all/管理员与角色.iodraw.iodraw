@@ -40,6 +40,11 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-13" target="fa0v5HXjnkNvQzD7hNL7-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-22" value="冻结" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fa0v5HXjnkNvQzD7hNL7-21">
+          <mxGeometry x="0.0483" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-13" value="验证账户状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="460" width="110" height="55" as="geometry" />
         </mxCell>
