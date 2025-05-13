@@ -180,7 +180,7 @@
           <mxGeometry x="1489" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-71" value="管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1396" y="284" width="100" height="30" as="geometry" />
+          <mxGeometry x="1391" y="284" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-72" value="客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1586" y="284" width="100" height="30" as="geometry" />
@@ -192,7 +192,7 @@
           <mxGeometry x="1631" y="374" width="43" height="77" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-79" value="缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1709" y="374" width="42" height="77" as="geometry" />
+          <mxGeometry x="1709" y="373" width="42" height="77" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-80" value="录入停车信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1466" y="368" width="42" height="77" as="geometry" />
