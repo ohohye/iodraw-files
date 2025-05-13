@@ -116,12 +116,14 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-38" value="用户预约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="947" y="152" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-39" target="fa0v5HXjnkNvQzD7hNL7-49">
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="974" y="250.0000000000001" as="sourcePoint" />
+            <mxPoint x="926" y="326.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="997" y="249" />
-              <mxPoint x="997" y="302" />
-              <mxPoint x="924" y="302" />
+              <mxPoint x="999" y="250" />
+              <mxPoint x="999" y="303" />
+              <mxPoint x="926" y="303" />
             </Array>
           </mxGeometry>
         </mxCell>
