@@ -231,10 +231,10 @@
           <mxGeometry x="1973" y="358" width="41" height="111" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-94" value="停车场管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="82" width="111" height="27" as="geometry" />
+          <mxGeometry x="2086" y="90" width="111" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-95" value="车位管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="133.5" width="112" height="27.5" as="geometry" />
+          <mxGeometry x="2086" y="141.5" width="112" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-96" value="车辆入场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2085" y="190.5" width="114" height="26.5" as="geometry" />
