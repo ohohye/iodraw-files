@@ -224,8 +224,8 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-91" value="停车管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1811" y="220" width="54" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-92" value="停车管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1821" y="230" width="54" height="149" as="geometry" />
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-92" value="管理员端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="190" width="41" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
