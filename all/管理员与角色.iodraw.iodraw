@@ -251,8 +251,8 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-100" value="停车记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2081" y="402.25" width="111" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-101" value="停车记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2091" y="412.25" width="111" height="27" as="geometry" />
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-101" value="缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2081" y="450" width="111" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
