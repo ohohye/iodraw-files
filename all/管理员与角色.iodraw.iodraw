@@ -336,7 +336,7 @@
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-118">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="292.27538001019025" y="852.1304347826087" as="targetPoint" />
+            <mxPoint x="292" y="846" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-118" value="信息是否符合要求" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
