@@ -91,7 +91,10 @@
           <mxGeometry x="637.5" y="313" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-33" value="保存信息并注册成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="422.5" width="110" height="47.5" as="geometry" />
+          <mxGeometry x="645" y="440" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="378" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
