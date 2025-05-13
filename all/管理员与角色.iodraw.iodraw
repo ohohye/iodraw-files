@@ -117,7 +117,13 @@
           <mxGeometry x="947" y="152" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-39" target="fa0v5HXjnkNvQzD7hNL7-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="997" y="249" />
+              <mxPoint x="997" y="300" />
+              <mxPoint x="924" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-39" target="fa0v5HXjnkNvQzD7hNL7-52">
           <mxGeometry relative="1" as="geometry" />
@@ -126,7 +132,7 @@
           <mxGeometry x="947" y="220" width="100" height="29" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-49" value="获取位置信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="874" y="350" width="100" height="30" as="geometry" />
+          <mxGeometry x="875" y="351.25" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-52" value="获取位置信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1021" y="358" width="100" height="30" as="geometry" />
