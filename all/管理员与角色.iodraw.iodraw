@@ -185,6 +185,9 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-72" value="客户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1586" y="284" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-77" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="318" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
