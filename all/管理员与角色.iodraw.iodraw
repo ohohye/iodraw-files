@@ -171,7 +171,7 @@
             <mxPoint x="1493.965475148168" y="268.8965517241379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fa0v5HXjnkNvQzD7hNL7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-70">
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-70" target="fa0v5HXjnkNvQzD7hNL7-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1539" y="262.4597630994074" as="targetPoint" />
           </mxGeometry>
@@ -183,7 +183,7 @@
           <mxGeometry x="1396" y="284" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-72" value="停车管理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1581" y="284" width="100" height="30" as="geometry" />
+          <mxGeometry x="1586" y="284" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
