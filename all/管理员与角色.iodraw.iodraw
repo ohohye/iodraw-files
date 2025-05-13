@@ -236,6 +236,9 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-95" value="车位管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2092" y="210" width="117" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-96" value="车辆入场" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2092" y="267" width="117" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
