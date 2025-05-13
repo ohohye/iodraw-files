@@ -254,6 +254,12 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-101" value="缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2085" y="441.5" width="111" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-102" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2026" y="364" as="sourcePoint" />
+            <mxPoint x="2076" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
