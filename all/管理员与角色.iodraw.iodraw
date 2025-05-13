@@ -228,7 +228,7 @@
           <mxGeometry x="1970" y="163" width="41" height="111" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-93" value="用户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="350.25" width="41" height="111" as="geometry" />
+          <mxGeometry x="1973" y="358" width="41" height="111" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-94" value="停车场管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2085" y="82" width="111" height="27" as="geometry" />
@@ -244,6 +244,9 @@
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-98" value="数据报表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2083" y="301" width="111" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-99" value="数据报表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2093" y="311" width="111" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
