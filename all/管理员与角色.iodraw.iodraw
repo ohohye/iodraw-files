@@ -228,7 +228,7 @@
           <mxGeometry x="1948" y="163" width="41" height="111" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-93" value="用户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="363" width="41" height="111" as="geometry" />
+          <mxGeometry x="1951" y="360.5" width="41" height="111" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-94" value="停车场管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2064" y="90" width="111" height="27" as="geometry" />
@@ -246,13 +246,13 @@
           <mxGeometry x="2066" y="284.5" width="111" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-99" value="找车位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="358" width="111" height="27" as="geometry" />
+          <mxGeometry x="2066" y="355.5" width="111" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-100" value="停车记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="397.5" width="111" height="27" as="geometry" />
+          <mxGeometry x="2066" y="395" width="111" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-101" value="缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="441.5" width="111" height="27" as="geometry" />
+          <mxGeometry x="2066" y="439" width="111" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-102" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-91" target="fa0v5HXjnkNvQzD7hNL7-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -306,20 +306,20 @@
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-109" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-93" target="fa0v5HXjnkNvQzD7hNL7-99">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2026" y="295" as="sourcePoint" />
-            <mxPoint x="2076" y="245" as="targetPoint" />
+            <mxPoint x="2007" y="292.5" as="sourcePoint" />
+            <mxPoint x="2057" y="242.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-110" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-93" target="fa0v5HXjnkNvQzD7hNL7-100">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2026" y="295" as="sourcePoint" />
-            <mxPoint x="2076" y="245" as="targetPoint" />
+            <mxPoint x="2007" y="292.5" as="sourcePoint" />
+            <mxPoint x="2057" y="242.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-111" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-93" target="fa0v5HXjnkNvQzD7hNL7-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2026" y="295" as="sourcePoint" />
-            <mxPoint x="2076" y="245" as="targetPoint" />
+            <mxPoint x="2007" y="292.5" as="sourcePoint" />
+            <mxPoint x="2057" y="242.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
