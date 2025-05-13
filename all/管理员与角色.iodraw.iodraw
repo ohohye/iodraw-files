@@ -87,6 +87,11 @@
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-31" target="fa0v5HXjnkNvQzD7hNL7-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fa0v5HXjnkNvQzD7hNL7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fa0v5HXjnkNvQzD7hNL7-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fa0v5HXjnkNvQzD7hNL7-31" value="输入的信息是否合法" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="313" width="125" height="60" as="geometry" />
         </mxCell>
