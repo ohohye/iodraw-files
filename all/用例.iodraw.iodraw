@@ -70,6 +70,9 @@
         <mxCell id="CMv5r9OYzh-CrWtz5q8V-22" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="477" y="170" width="20" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CMv5r9OYzh-CrWtz5q8V-23" value="学生/老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="170" width="20" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
