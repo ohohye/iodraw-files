@@ -163,6 +163,9 @@
         <mxCell id="CMv5r9OYzh-CrWtz5q8V-49" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1237" y="129" width="20" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CMv5r9OYzh-CrWtz5q8V-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMv5r9OYzh-CrWtz5q8V-50" target="CMv5r9OYzh-CrWtz5q8V-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CMv5r9OYzh-CrWtz5q8V-50" value="学生/老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1422" y="124" width="20" height="40" as="geometry" />
         </mxCell>
@@ -189,6 +192,9 @@
             <mxPoint x="1322" y="223" as="sourcePoint" />
             <mxPoint x="1372" y="173" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CMv5r9OYzh-CrWtz5q8V-56" value="学生/老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1422" y="244" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
