@@ -148,8 +148,8 @@
             <mxPoint x="1006" y="78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CMv5r9OYzh-CrWtz5q8V-44" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="783" y="138" width="20" height="40" as="geometry" />
+        <mxCell id="CMv5r9OYzh-CrWtz5q8V-44" value="老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="77" width="20" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
