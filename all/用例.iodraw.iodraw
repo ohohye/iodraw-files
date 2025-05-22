@@ -71,9 +71,9 @@
           <mxGeometry x="477" y="170" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CMv5r9OYzh-CrWtz5q8V-23" value="学生/老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="675" y="170" width="20" height="40" as="geometry" />
+          <mxGeometry x="678" y="168" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CMv5r9OYzh-CrWtz5q8V-24" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CMv5r9OYzh-CrWtz5q8V-24" value="信息发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="552" y="101" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
